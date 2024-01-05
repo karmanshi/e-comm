@@ -1,6 +1,6 @@
 # To Login the react app kindly use following credential :-
 
-Username - kminchelle
+Username - kminchelle\
 Password -  0lelplR
 
 
