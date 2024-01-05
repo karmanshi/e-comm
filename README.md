@@ -1,3 +1,9 @@
+# To Login the react app kindly use following credential :-
+
+Username - kminchelle
+Password -  0lelplR
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
