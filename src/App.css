@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.outerDiv
+   {
+  
+   color: #fff;
+   width: 100%;
+   margin: 0px auto;
+   padding: 5px;
+   }
+   .leftDiv
+   {
+
+   color: #000;
+
+   width: 48%;
+   float: left;
+   }
+   .rightDiv
+   {
+
+   color: #000;
+text-align: right;
+   width: 48%;
+   float: right;
+   }			
